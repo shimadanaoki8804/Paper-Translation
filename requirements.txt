@@ -1,7 +1,7 @@
 openai==0.28.1
 python-dotenv==1.0.0
 langchain==0.0.319
-chromadb==0.4.14
+chromadb==0.3.21
 openapi-schema-pydantic==1.2.4
 prompt-toolkit==3.0.38
 pypdf==3.8.1
