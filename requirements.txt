@@ -3,9 +3,11 @@ openapi-schema-pydantic==1.2.4
 prompt-toolkit==3.0.38
 pypdf==3.8.1
 PyPDF2==3.0.1
-streamlit==1.20.0
+streamlit==1.27.2
 tiktoken==0.3.3
 tokenizers==0.13.3
 python-dotenv==1.0.0
 langchain==0.0.319
 chromadb==0.3.21
+Chroma==0.2.0
+chroma-hnswlib==0.7.3
